@@ -2,6 +2,7 @@ INSERT INTO department (dept_name)
 VALUES 
 ('Front end'),
 ('Back end'),
+('Data Analyst'),
 ('Full stack');
 
 
