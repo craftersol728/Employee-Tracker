@@ -13,11 +13,11 @@ VALUES
 ('Junior C++ dev', 75000, 3),
 ('Senior Javascript Dev', 175000, 1),
 ('Senior Python Dev', 175000, 2),
-('Senior C++ dev', 118000, 3),
+('Senior C++ dev', 178000, 3);
 
 INSERT INTO employee (first_name, last_name, job_id, manager_id)
 VALUES 
-('Pa', 'Lee', 1, NULL),
+('Pa', 'Liu', 1, NULL),
 ('Ryu', 'What', 2, 1),
 ('Jeff', 'Where', 3, 2),
 ('Pig', 'asd', 4, 3),
